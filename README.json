@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T10:13:35Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
-            "stars": 479
+            "stars": 480
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T03:53:25Z",
+            "last_commit": "2026-08-15T09:11:56Z",
             "owner": "FrontisAI",
             "repo": "Awesome-Self-Improving-Agents",
             "stars": 224
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:42:11.731Z",
+    "last_updated": "2026-08-15T23:39:23.959Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
     "original_repository_sha": "6e09f1fdc0022f428104cf151833db8dbeb9a2b4",
     "enhanced_repository": "enhansome/enhansome-Awesome-RL-for-LRMs",
