@@ -19,7 +19,7 @@
             "last_commit": "2026-04-15T02:47:09Z",
             "owner": "PRIME-RL",
             "repo": "TTRL",
-            "stars": 1110
+            "stars": 1111
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-23T07:28:49Z",
+            "last_commit": "2026-08-16T09:27:48Z",
             "owner": "TsinghuaC3I",
             "repo": "Awesome-Memory-for-Agents",
-            "stars": 635
+            "stars": 636
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T10:13:35Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
-            "stars": 480
+            "stars": 485
           }
         },
         {
@@ -337,9 +337,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:39:23.959Z",
+    "last_updated": "2026-08-16T23:37:45.603Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
-    "original_repository_sha": "6e09f1fdc0022f428104cf151833db8dbeb9a2b4",
+    "original_repository_sha": "6f8007a3c51a23444d38386e1a8f56bd9a6704f0",
     "enhanced_repository": "enhansome/enhansome-Awesome-RL-for-LRMs",
     "enhanced_repository_description": null,
     "title": "Awesome RL for LRMs with stars"
