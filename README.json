@@ -19,7 +19,7 @@
             "last_commit": "2026-04-15T02:47:09Z",
             "owner": "PRIME-RL",
             "repo": "TTRL",
-            "stars": 1111
+            "stars": 1112
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T10:13:35Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
-            "stars": 485
+            "stars": 489
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-15T09:11:56Z",
             "owner": "FrontisAI",
             "repo": "Awesome-Self-Improving-Agents",
-            "stars": 224
+            "stars": 231
           }
         },
         {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:37:45.603Z",
+    "last_updated": "2026-08-17T23:41:34.966Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
     "original_repository_sha": "6f8007a3c51a23444d38386e1a8f56bd9a6704f0",
     "enhanced_repository": "enhansome/enhansome-Awesome-RL-for-LRMs",
