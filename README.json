@@ -45,7 +45,7 @@
             "last_commit": "2026-04-14T03:28:29Z",
             "owner": "TsinghuaC3I",
             "repo": "MARTI",
-            "stars": 547
+            "stars": 548
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-12T10:13:35Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
-            "stars": 504
+            "stars": 505
           }
         },
         {
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:27.982Z",
+    "last_updated": "2026-08-19T23:41:33.103Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
     "original_repository_id": 951771641,
     "original_repository_sha": "6f8007a3c51a23444d38386e1a8f56bd9a6704f0",
