@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "A Survey of Reinforcement Learning for Large Reasoning Models"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 971091060,
             "language": "Python",
             "last_commit": "2026-04-15T02:47:09Z",
             "owner": "PRIME-RL",
             "repo": "TTRL",
-            "stars": 1113
+            "stars": 1114
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084889552,
             "language": null,
-            "last_commit": "2026-08-16T09:27:48Z",
+            "last_commit": "2026-08-19T10:24:24Z",
             "owner": "TsinghuaC3I",
             "repo": "Awesome-Memory-for-Agents",
-            "stars": 636
+            "stars": 637
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 980971217,
             "language": "Python",
             "last_commit": "2026-04-14T03:28:29Z",
             "owner": "TsinghuaC3I",
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1317515809,
             "language": "Python",
             "last_commit": "2026-08-12T10:13:35Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
-            "stars": 493
+            "stars": 504
           }
         },
         {
@@ -71,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278940275,
             "language": null,
             "last_commit": "2026-08-15T09:11:56Z",
             "owner": "FrontisAI",
             "repo": "Awesome-Self-Improving-Agents",
-            "stars": 233
+            "stars": 236
           }
         },
         {
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035831739,
             "language": "Python",
             "last_commit": "2025-08-20T10:25:29Z",
             "owner": "TsinghuaC3I",
@@ -94,251 +95,12 @@
         }
       ],
       "title": "🎉 News"
-    },
-    {
-      "description": "If you find this survey helpful, please cite our work:",
-      "items": [],
-      "title": "🎈 Citation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📄 Paper List"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Frontier Models"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Reward Design"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Generative Rewards"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dense Rewards"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Unsupervised Rewards"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Rewards Shaping"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Policy Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Policy Gradient Objective"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Critic-based Algorithms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Critic-Free Algorithms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Off-policy Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Off-policy Optimization (Exp replay)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Regularization Objectives"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sampling Strategy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dynamic and Structured Sampling"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sampling Hyper-Parameters"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Training Resource"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Static Corpus (Code)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Static Corpus (STEM)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Static Corpus (Math)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Static Corpus (Agent)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Static Corpus (Mix)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dynamic Environment (Rule-based)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dynamic Environment (Code-based)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dynamic Environment (Game-based)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dynamic Environment (Model-based)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dynamic Environment (Ensemble-based)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "RL Infrastructure (Primary)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "RL Infrastructure (Secondary)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Applications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Coding Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Search Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Browser-Use Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "DeepResearch Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GUI&Computer Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recommendation Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Agent (Others)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Code Generation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Software Engineering"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal Understanding"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal Generation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Robotics Tasks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multi-Agent Systems"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Scientific Tasks"
-    },
-    {
-      "description": "This survey is extended and refined from the original Awesome RL Reasoning Recipes repo. We are deeply grateful to all contributors for their efforts, and we sincerely thank for their all interest in Awesome RL Reasoning Recipes. The contents of the previous repository are available here.",
-      "items": [],
-      "title": "🌟 Acknowledgment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "✨ Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:41:41.528Z",
+    "last_updated": "2026-08-19T12:11:27.982Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
+    "original_repository_id": 951771641,
     "original_repository_sha": "6f8007a3c51a23444d38386e1a8f56bd9a6704f0",
     "enhanced_repository": "enhansome/enhansome-Awesome-RL-for-LRMs",
     "enhanced_repository_description": null,
