@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1084889552,
             "language": null,
-            "last_commit": "2026-08-19T10:24:24Z",
+            "last_commit": "2026-08-20T13:20:19Z",
             "owner": "TsinghuaC3I",
             "repo": "Awesome-Memory-for-Agents",
-            "stars": 637
+            "stars": 638
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 980971217,
             "language": "Python",
-            "last_commit": "2026-04-14T03:28:29Z",
+            "last_commit": "2026-08-20T13:25:41Z",
             "owner": "TsinghuaC3I",
             "repo": "MARTI",
             "stars": 548
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-12T10:13:35Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
-            "stars": 505
+            "stars": 516
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-15T09:11:56Z",
             "owner": "FrontisAI",
             "repo": "Awesome-Self-Improving-Agents",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -98,10 +98,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:41:33.103Z",
+    "last_updated": "2026-08-20T23:44:16.755Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
     "original_repository_id": 951771641,
-    "original_repository_sha": "6f8007a3c51a23444d38386e1a8f56bd9a6704f0",
+    "original_repository_sha": "8e1040a66d430ee6951187c1a471253e5c669d02",
     "enhanced_repository": "enhansome/enhansome-Awesome-RL-for-LRMs",
     "enhanced_repository_description": null,
     "title": "Awesome RL for LRMs with stars"
