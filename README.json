@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T13:20:19Z",
             "owner": "TsinghuaC3I",
             "repo": "Awesome-Memory-for-Agents",
-            "stars": 638
+            "stars": 639
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-12T10:13:35Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
-            "stars": 524
+            "stars": 543
           }
         },
         {
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:43:22.646Z",
+    "last_updated": "2026-08-22T23:39:26.166Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
     "original_repository_id": 951771641,
     "original_repository_sha": "8e1040a66d430ee6951187c1a471253e5c669d02",
