@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1084889552,
             "language": null,
-            "last_commit": "2026-08-20T13:20:19Z",
+            "last_commit": "2026-08-25T05:36:00Z",
             "owner": "TsinghuaC3I",
             "repo": "Awesome-Memory-for-Agents",
-            "stars": 642
+            "stars": 643
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1317515809,
             "language": "Python",
-            "last_commit": "2026-08-12T10:13:35Z",
+            "last_commit": "2026-08-25T02:15:59Z",
             "owner": "FrontisAI",
             "repo": "OpenRSI",
             "stars": 560
@@ -103,7 +103,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2025-08",
+              "title": "Intern-S1",
               "description": "Intern-S1: A Scientific Multimodal Foundation Model",
               "children": [],
               "repo_info": {
@@ -118,7 +118,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-08",
+              "title": "GLM-4.5",
               "description": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
               "children": [],
               "repo_info": {
@@ -133,7 +133,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-08",
+              "title": "gpt-oss",
               "description": "gpt-oss-120b & gpt-oss-20b Model Card",
               "children": [],
               "repo_info": {
@@ -143,12 +143,12 @@
                 "last_commit": "2026-07-24T18:56:01Z",
                 "owner": "openai",
                 "repo": "gpt-oss",
-                "stars": 20340
+                "stars": 20341
               }
             },
             {
               "node_type": "item",
-              "title": "2025-08",
+              "title": "InternVL",
               "description": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency",
               "children": [],
               "repo_info": {
@@ -163,7 +163,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-07",
+              "title": "Kimi-K2",
               "description": "Kimi K2: Open Agentic Intelligence",
               "children": [],
               "repo_info": {
@@ -178,7 +178,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-07",
+              "title": "Step3",
               "description": "Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding",
               "children": [],
               "repo_info": {
@@ -193,7 +193,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-07",
+              "title": "GLM-V",
               "description": "GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
               "children": [],
               "repo_info": {
@@ -208,7 +208,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-07",
+              "title": "Skywork-R1V",
               "description": "Skywork-R1V3 Technical Report",
               "children": [],
               "repo_info": {
@@ -223,7 +223,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-07",
+              "title": "GLM-V",
               "description": "GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
               "children": [],
               "repo_info": {
@@ -238,7 +238,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-06",
+              "title": "MiniMax-M1",
               "description": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention",
               "children": [],
               "repo_info": {
@@ -253,7 +253,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-05",
+              "title": "MiMo",
               "description": "MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining",
               "children": [],
               "repo_info": {
@@ -263,12 +263,12 @@
                 "last_commit": "2025-06-05T16:01:49Z",
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo",
-                "stars": 2298
+                "stars": 2299
               }
             },
             {
               "node_type": "item",
-              "title": "2025-05",
+              "title": "Qwen3",
               "description": "Qwen3 Technical Report",
               "children": [],
               "repo_info": {
@@ -278,27 +278,27 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27554
+                "stars": 27555
               }
             },
             {
               "node_type": "item",
-              "title": "2025-05",
+              "title": "Megatron-LM",
               "description": "Llama-Nemotron: Efficient Reasoning Models",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:37:29Z",
+                "last_commit": "2026-08-25T05:53:34Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17566
+                "stars": 17574
               }
             },
             {
               "node_type": "item",
-              "title": "2025-05",
+              "title": "Hunyuan-TurboS",
               "description": "Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought",
               "children": [],
               "repo_info": {
@@ -313,7 +313,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-05",
+              "title": "Skywork-OR1",
               "description": "Skywork Open Reasoner 1 Technical Report",
               "children": [],
               "repo_info": {
@@ -328,7 +328,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-04",
+              "title": "Skywork-R1V",
               "description": "Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning",
               "children": [],
               "repo_info": {
@@ -343,7 +343,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-04",
+              "title": "InternVL",
               "description": "InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models",
               "children": [],
               "repo_info": {
@@ -358,7 +358,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-03",
+              "title": "Open-Reasoner-Zero",
               "description": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
               "children": [],
               "repo_info": {
@@ -373,7 +373,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025-01",
+              "title": "DeepSeek-R1",
               "description": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
               "children": [],
               "repo_info": {
@@ -383,12 +383,12 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92037
+                "stars": 92035
               }
             },
             {
               "node_type": "item",
-              "title": "-",
+              "title": "QwQ",
               "description": "QwQ-32B: Embracing the Power of Reinforcement Learning",
               "children": [],
               "repo_info": {
@@ -403,7 +403,7 @@
             },
             {
               "node_type": "item",
-              "title": "-",
+              "title": "seed-oss",
               "description": "Seed-OSS Open-Source Models",
               "children": [],
               "repo_info": {
@@ -427,7 +427,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "CAPO",
                   "description": "CAPO: Towards Enhancing LLM Reasoning through Verifiable Generative Credit Assignment",
                   "children": [],
                   "repo_info": {
@@ -442,7 +442,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "CompassVerifier",
                   "description": "CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward",
                   "children": [],
                   "repo_info": {
@@ -457,7 +457,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "cooper",
                   "description": "Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -472,7 +472,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "MARTI",
                   "description": "ReviewRL: Towards Automated Scientific Review with RL",
                   "children": [],
                   "repo_info": {
@@ -487,7 +487,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "tp_grpo",
                   "description": "Good Learners Think Their Thinking: Generative PRM Makes Large Reasoning Model More Efficient Math Learner",
                   "children": [],
                   "repo_info": {
@@ -502,7 +502,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "critique-GRPO",
                   "description": "Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback",
                   "children": [],
                   "repo_info": {
@@ -517,7 +517,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "GRAM",
                   "description": "GRAM: A Generative Foundation Reward Model for Reward Generalization",
                   "children": [],
                   "repo_info": {
@@ -532,7 +532,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "RM-R1",
                   "description": "RM-R1: Reward Modeling as Reasoning",
                   "children": [],
                   "repo_info": {
@@ -547,7 +547,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "TinyV",
                   "description": "TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning",
                   "children": [],
                   "repo_info": {
@@ -562,7 +562,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "RL-Tango",
                   "description": "RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning",
                   "children": [],
                   "repo_info": {
@@ -577,7 +577,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Think-RM",
                   "description": "Think-RM: Enabling Long-Horizon Reasoning in Generative Reward Models",
                   "children": [],
                   "repo_info": {
@@ -592,7 +592,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "JudgeLRM",
                   "description": "JudgeLRM: Large Reasoning Models as a Judge",
                   "children": [],
                   "repo_info": {
@@ -607,7 +607,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "GenPRM",
                   "description": "GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning",
                   "children": [],
                   "repo_info": {
@@ -622,7 +622,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "xVerify",
                   "description": "xVerify: Efficient Answer Verifier for Reasoning Model Evaluations",
                   "children": [],
                   "repo_info": {
@@ -637,7 +637,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "ThinkPRM",
                   "description": "Process Reward Models That Think",
                   "children": [],
                   "repo_info": {
@@ -652,7 +652,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "Self-rewarding-reasoning-LLM",
                   "description": "- Self-rewarding correction for mathematical reasoning",
                   "children": [],
                   "repo_info": {
@@ -667,7 +667,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-08",
+                  "title": "CLoud",
                   "description": "Critique-out-Loud Reward Models",
                   "children": [],
                   "repo_info": {
@@ -682,7 +682,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-10",
+                  "title": "auto-j",
                   "description": "Generative Judge for Evaluating Alignment",
                   "children": [],
                   "repo_info": {
@@ -697,7 +697,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-06",
+                  "title": "FastChat",
                   "description": "Judging llm-as-a-judge with mt-bench and chatbot arena",
                   "children": [],
                   "repo_info": {
@@ -719,7 +719,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "Tree-GRPO",
                   "description": "Tree Search for LLM Agent Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -734,7 +734,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "AttnRL",
                   "description": "Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models",
                   "children": [],
                   "repo_info": {
@@ -749,7 +749,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "PROF",
                   "description": "Beyond Correctness: Harmonizing Process and Outcome Rewards through RL Training",
                   "children": [],
                   "repo_info": {
@@ -764,7 +764,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "KlearReasoner",
                   "description": "Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving Clipping Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -779,7 +779,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "CAPO",
                   "description": "CAPO: Towards Enhancing LLM Reasoning through Verifiable Generative Credit Assignment",
                   "children": [],
                   "repo_info": {
@@ -794,7 +794,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "TreePO",
                   "description": "TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling",
                   "children": [],
                   "repo_info": {
@@ -809,7 +809,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "ARPO",
                   "description": "Agentic Reinforced Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -824,7 +824,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "tp_grpo",
                   "description": "Good Learners Think Their Thinking: Generative PRM Makes Large Reasoning Model More Efficient Math Learner",
                   "children": [],
                   "repo_info": {
@@ -839,7 +839,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "TreeRPO",
                   "description": "TreeRPO: Tree Relative Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -854,7 +854,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "TreeRL",
                   "description": "TreeRL: LLM Reinforcement Learning with On-Policy Tree Search",
                   "children": [],
                   "repo_info": {
@@ -869,7 +869,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "ReasonFlux",
                   "description": "ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs",
                   "children": [],
                   "repo_info": {
@@ -884,7 +884,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "verl-agent",
                   "description": "Group-in-Group Policy Optimization for LLM Agent Training",
                   "children": [],
                   "repo_info": {
@@ -899,7 +899,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "RL-Tango",
                   "description": "RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning",
                   "children": [],
                   "repo_info": {
@@ -914,7 +914,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "StepSearch",
                   "description": "StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -929,7 +929,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Tool-Star",
                   "description": "Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -944,7 +944,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "SPA-RL-Agent",
                   "description": "SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution",
                   "children": [],
                   "repo_info": {
@@ -959,7 +959,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "SPO",
                   "description": "Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Mode",
                   "children": [],
                   "repo_info": {
@@ -974,7 +974,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "GenPRM",
                   "description": "GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning",
                   "children": [],
                   "repo_info": {
@@ -989,7 +989,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "PURE",
                   "description": "Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning",
                   "children": [],
                   "repo_info": {
@@ -1004,7 +1004,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "MRT",
                   "description": "Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning",
                   "children": [],
                   "repo_info": {
@@ -1019,7 +1019,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "sweet_rl",
                   "description": "SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
                   "children": [],
                   "repo_info": {
@@ -1034,7 +1034,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "PRIME",
                   "description": "Process Reinforcement through Implicit Rewards",
                   "children": [],
                   "repo_info": {
@@ -1049,7 +1049,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
+                  "title": "ImplicitPRM",
                   "description": "Free Process Rewards without Process Labels",
                   "children": [],
                   "repo_info": {
@@ -1064,7 +1064,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-10",
+                  "title": "VinePPO",
                   "description": "VinePPO: Refining Credit Assignment in RL Training of LLMs",
                   "children": [],
                   "repo_info": {
@@ -1079,7 +1079,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-05",
+                  "title": "prm800k",
                   "description": "Let's Verify Step by Step",
                   "children": [],
                   "repo_info": {
@@ -1101,7 +1101,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "RLSVR",
                   "description": "Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play",
                   "children": [],
                   "repo_info": {
@@ -1111,12 +1111,12 @@
                     "last_commit": "2026-08-12T06:24:32Z",
                     "owner": "wangqinsi1",
                     "repo": "RLSVR",
-                    "stars": 187
+                    "stars": 188
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "Co-rewarding",
                   "description": "Co-Reward: Self-supervised Reinforcement Learning for Large Language Model Reasoning via Contrastive Agreement",
                   "children": [],
                   "repo_info": {
@@ -1131,7 +1131,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "self-questioning-lm",
                   "description": "Self-Questioning Language Models",
                   "children": [],
                   "repo_info": {
@@ -1146,7 +1146,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "R-Zero",
                   "description": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
                   "children": [],
                   "repo_info": {
@@ -1161,7 +1161,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "CoVo",
                   "description": "Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning",
                   "children": [],
                   "repo_info": {
@@ -1176,7 +1176,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "Spurious_Rewards",
                   "description": "Spurious Rewards: Rethinking Training Signals in RLVR",
                   "children": [],
                   "repo_info": {
@@ -1191,7 +1191,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Absolute-Zero-Reasoner",
                   "description": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data",
                   "children": [],
                   "repo_info": {
@@ -1206,7 +1206,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "EM_PT",
                   "description": "The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning",
                   "children": [],
                   "repo_info": {
@@ -1221,7 +1221,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "SSR-Zero",
                   "description": "SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation",
                   "children": [],
                   "repo_info": {
@@ -1236,7 +1236,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "rl-without-gt",
                   "description": "- Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers",
                   "children": [],
                   "repo_info": {
@@ -1251,7 +1251,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Intuitor",
                   "description": "Learning to Reason without External Rewards",
                   "children": [],
                   "repo_info": {
@@ -1266,7 +1266,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "SeRL",
                   "description": "SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data",
                   "children": [],
                   "repo_info": {
@@ -1281,7 +1281,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "srt",
                   "description": "Can Large Reasoning Models Self-Train?",
                   "children": [],
                   "repo_info": {
@@ -1296,7 +1296,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "rent-rl",
                   "description": "Maximizing Confidence Alone Improves Reasoning",
                   "children": [],
                   "repo_info": {
@@ -1311,7 +1311,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "EMPO",
                   "description": "Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization",
                   "children": [],
                   "repo_info": {
@@ -1326,7 +1326,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "trans0",
                   "description": "TRANS-ZERO: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data",
                   "children": [],
                   "repo_info": {
@@ -1341,7 +1341,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "TTRL",
                   "description": "TTRL: Test-Time Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -1356,7 +1356,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "One-Shot-RLVR",
                   "description": "Reinforcement Learning for Reasoning in Large Language Models with One Training Example",
                   "children": [],
                   "repo_info": {
@@ -1371,7 +1371,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
+                  "title": "minimo",
                   "description": "Learning Formal Mathematics From Intrinsic Motivation",
                   "children": [],
                   "repo_info": {
@@ -1393,7 +1393,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "darling",
                   "description": "Jointly Reinforcing Diversity and Quality in Language Model Generations",
                   "children": [],
                   "repo_info": {
@@ -1408,7 +1408,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "Passk_Training",
                   "description": "Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models",
                   "children": [],
                   "repo_info": {
@@ -1423,7 +1423,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "rl-without-gt",
                   "description": "Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers",
                   "children": [],
                   "repo_info": {
@@ -1438,7 +1438,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-01",
+                  "title": "DeepSeek-R1",
                   "description": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -1448,12 +1448,12 @@
                     "last_commit": "2025-06-27T08:35:54Z",
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-R1",
-                    "stars": 92037
+                    "stars": 92035
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-09",
+                  "title": "Qwen2.5-Math",
                   "description": "Qwen2. 5-math technical report: Toward mathematical expert model via self-improvement",
                   "children": [],
                   "repo_info": {
@@ -1482,7 +1482,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "VL-DAC",
                   "description": "Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success",
                   "children": [],
                   "repo_info": {
@@ -1497,7 +1497,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "VerIPO",
                   "description": "VerIPO: Long Reasoning Video-R1 Model with Iterative Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -1512,7 +1512,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Open-Reasoner-Zero",
                   "description": "open reasoner-zero: An open source approach to scaling up reinforcement learning on the base model",
                   "children": [],
                   "repo_info": {
@@ -1527,7 +1527,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "PRIME",
                   "description": "PROCESS REINFORCEMENT THROUGH IMPLICIT REWARDS",
                   "children": [],
                   "repo_info": {
@@ -1542,7 +1542,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
+                  "title": "ImplicitPRM",
                   "description": "FREE PROCESS REWARDS WITHOUT PROCESS LABELS",
                   "children": [],
                   "repo_info": {
@@ -1557,7 +1557,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "AutoPSV",
                   "description": "Autopsv: Automated process-supervised verifier.",
                   "children": [],
                   "repo_info": {
@@ -1579,7 +1579,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "Unify-Post-Training",
                   "description": "Towards a Unified View o fLarge Language Model Post-Training",
                   "children": [],
                   "repo_info": {
@@ -1594,7 +1594,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "MiniMax-M1",
                   "description": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention",
                   "children": [],
                   "repo_info": {
@@ -1609,7 +1609,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "KRPO_LLMs_RL",
                   "description": "Kalman Filter Enhanced Group Relative Policy Optimization for Language Model Reasoning",
                   "children": [],
                   "repo_info": {
@@ -1624,7 +1624,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "MM-EUREKA",
                   "description": "CPGD:Toward Stable Rule-based Reinforcement Learning for Language Models",
                   "children": [],
                   "repo_info": {
@@ -1639,7 +1639,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Entropy-Mechanism-of-RL",
                   "description": "The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models",
                   "children": [],
                   "repo_info": {
@@ -1654,7 +1654,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "OpenVLThinker",
                   "description": "OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles",
                   "children": [],
                   "repo_info": {
@@ -1669,7 +1669,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "DAPO",
                   "description": "DAPO: an Open-Source LLM Reinforcement Learning System at Scale",
                   "children": [],
                   "repo_info": {
@@ -1684,7 +1684,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "understand-r1-zero",
                   "description": "Understanding R1-Zero-Like Training: A Critical Perspectiv",
                   "children": [],
                   "repo_info": {
@@ -1699,7 +1699,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-02",
+                  "title": "DeepSeek-Math",
                   "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
                   "children": [],
                   "repo_info": {
@@ -1714,7 +1714,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-10",
+                  "title": "ReMax",
                   "description": "ReMax: A Simple, Effective, and Efficient Method for Aligning Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -1729,7 +1729,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "OpenRLHF",
                   "description": "REINFORCE++: An Efficient RLHF Algorithm with Robustnessto Both Prompt and Reward Models",
                   "children": [],
                   "repo_info": {
@@ -1739,12 +1739,12 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9950
+                    "stars": 9951
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "VinePPO",
                   "description": "VINEPPO: UNLOCKING RL POTENTIAL FOR LLM REASONING THROUGH REFINED CREDIT ASSIGNMENT",
                   "children": [],
                   "repo_info": {
@@ -1759,7 +1759,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "Flash-RL",
                   "description": "Fast RL training with Quantized Rollouts",
                   "children": [],
                   "repo_info": {
@@ -1781,7 +1781,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "BRIDGE",
                   "description": "Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning",
                   "children": [],
                   "repo_info": {
@@ -1796,7 +1796,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "Unify-Post-Training",
                   "description": "Towards a Unified View of Large Language Model Post-Training",
                   "children": [],
                   "repo_info": {
@@ -1811,7 +1811,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "DFT",
                   "description": "On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification",
                   "children": [],
                   "repo_info": {
@@ -1826,7 +1826,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "OpenRLHF-Millioniron-",
                   "description": "Recall-Extend Dynamics: Enhancing Small Language Models through Controlled Exploration and Refined Offline Integration",
                   "children": [],
                   "repo_info": {
@@ -1841,7 +1841,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "ReMix-Off-Policy-RFT",
                   "description": "Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model",
                   "children": [],
                   "repo_info": {
@@ -1856,7 +1856,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "ReLIFT",
                   "description": "Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions",
                   "children": [],
                   "repo_info": {
@@ -1871,7 +1871,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "AMPO",
                   "description": "Adaptive Thinking via Mode Policy Optimization for Social Language Agents",
                   "children": [],
                   "repo_info": {
@@ -1886,7 +1886,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "UFT",
                   "description": "UFT: Unifying Supervised and Reinforcement Fine-Tuning",
                   "children": [],
                   "repo_info": {
@@ -1901,7 +1901,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "LUFFY",
                   "description": "Learning to Reason under Off-Policy Guidance",
                   "children": [],
                   "repo_info": {
@@ -1916,7 +1916,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "SPO",
                   "description": "Soft Policy Optimization: Online Off-Policy RL for Sequence Models",
                   "children": [],
                   "repo_info": {
@@ -1931,7 +1931,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-05",
+                  "title": "Intuitive-Fine-Tuning",
                   "description": "Intuitive Fine-Tuning: Towards Simplifying Alignment into a Single Process",
                   "children": [],
                   "repo_info": {
@@ -1946,7 +1946,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "verl",
                   "description": "- Your Efficient RL Framework Secretly Brings You Off-Policy RL Training",
                   "children": [],
                   "repo_info": {
@@ -1968,7 +1968,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "seele",
                   "description": "Staying in the Sweet Spot: Responsive Reasoning Evolution via Capability-Adaptive Hint Scaffolding",
                   "children": [],
                   "repo_info": {
@@ -1983,7 +1983,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "RLEP",
                   "description": "RLEP: Reinforcement Learning with Experience Replay for LLM Reasoning",
                   "children": [],
                   "repo_info": {
@@ -1998,7 +1998,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "UEC-RL",
                   "description": "EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework",
                   "children": [],
                   "repo_info": {
@@ -2013,7 +2013,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ARPO",
                   "description": "ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay",
                   "children": [],
                   "repo_info": {
@@ -2035,7 +2035,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-10",
+                  "title": "Archer2.0",
                   "description": "ASPO: Asymmetric Importance Sampling Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -2050,7 +2050,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "CE-GPPO",
                   "description": "CE-GPPO: Coordinating Entropy via Gradient-Preserving Clipping Policy Optimization in Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -2065,7 +2065,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "DPH-RL",
                   "description": "The Choice of Divergence: A Neglected Key to Mitigating Diversity Collapse in Reinforcement Learning with Verifiable Reward",
                   "children": [],
                   "repo_info": {
@@ -2080,7 +2080,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "ArcherCodeR",
                   "description": "Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR",
                   "children": [],
                   "repo_info": {
@@ -2095,7 +2095,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "Bingo",
                   "description": "Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -2110,7 +2110,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "DisCO",
                   "description": "DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization",
                   "children": [],
                   "repo_info": {
@@ -2125,7 +2125,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Skywork-OR1",
                   "description": "Skywork Open Reasoner 1 Technical Report",
                   "children": [],
                   "repo_info": {
@@ -2140,7 +2140,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Entropy-Mechanism-of-RL",
                   "description": "The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models",
                   "children": [],
                   "repo_info": {
@@ -2155,7 +2155,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Short-RL",
                   "description": "Efficient RL Training for Reasoning Models via Length-Aware Optimization",
                   "children": [],
                   "repo_info": {
@@ -2170,7 +2170,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "l1",
                   "description": "L1: Controlling how long a reasoning model thinks with reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -2199,7 +2199,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-10",
+                  "title": "EEPO",
                   "description": "EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget",
                   "children": [],
                   "repo_info": {
@@ -2214,7 +2214,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "Parallel-R1",
                   "description": "Parallel-R1: Towards Parallel Thinking via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -2229,7 +2229,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "G2RPO-A",
                   "description": "G^2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidanc",
                   "children": [],
                   "repo_info": {
@@ -2244,7 +2244,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "TreePO",
                   "description": "TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling",
                   "children": [],
                   "repo_info": {
@@ -2259,7 +2259,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "ARPO",
                   "description": "Agentic Reinforced Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -2274,7 +2274,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "TreeRPO",
                   "description": "TreeRPO: Tree Relative Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -2289,7 +2289,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "TreeRL",
                   "description": "TreeRL: LLM Reinforcement Learning with On-Policy Tree Search",
                   "children": [],
                   "repo_info": {
@@ -2304,7 +2304,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "DARS-Agent",
                   "description": "DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal",
                   "children": [],
                   "repo_info": {
@@ -2319,7 +2319,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "DAPO",
                   "description": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
                   "children": [],
                   "repo_info": {
@@ -2334,7 +2334,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "PRIME",
                   "description": "Process Reinforcement through Implicit Rewards",
                   "children": [],
                   "repo_info": {
@@ -2349,7 +2349,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "POLARIS",
                   "description": "POLARIS: A POst-training recipe for scaling reinforcement Learning on Advanced ReasonIng modelS",
                   "children": [],
                   "repo_info": {
@@ -2371,7 +2371,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "Confucius3-Math",
                   "description": "Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning",
                   "children": [],
                   "repo_info": {
@@ -2386,7 +2386,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "E3-RL4LLMs",
                   "description": "Enhancing Efficiency and Exploration in Reinforcement Learning for LLMs",
                   "children": [],
                   "repo_info": {
@@ -2401,7 +2401,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "DAPO",
                   "description": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
                   "children": [],
                   "repo_info": {
@@ -2416,7 +2416,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "PRIME",
                   "description": "Process Reinforcement through Implicit Rewards",
                   "children": [],
                   "repo_info": {
@@ -2431,7 +2431,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "rllm",
                   "description": "DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL",
                   "children": [],
                   "repo_info": {
@@ -2446,7 +2446,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "POLARIS",
                   "description": "POLARIS: A POst-training recipe for scaling reinforcement Learning on Advanced ReasonIng modelS",
                   "children": [],
                   "repo_info": {
@@ -2475,7 +2475,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "rStar",
                   "description": "rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset",
                   "children": [],
                   "repo_info": {
@@ -2490,7 +2490,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "Z1",
                   "description": "Z1: Efficient Test-time Scaling with Code",
                   "children": [],
                   "repo_info": {
@@ -2505,7 +2505,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "LeetCodeDataset",
                   "description": "LeetCodeDataset: A Temporal Dataset for Robust Evaluation and Efficient Training of Code LLMs",
                   "children": [],
                   "repo_info": {
@@ -2520,7 +2520,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-01",
+                  "title": "SWE-Fixer",
                   "description": "SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution",
                   "children": [],
                   "repo_info": {
@@ -2535,7 +2535,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
+                  "title": "SWE-Gym",
                   "description": "Training Software Engineering Agents and Verifiers with SWE-Gym",
                   "children": [],
                   "repo_info": {
@@ -2545,12 +2545,12 @@
                     "last_commit": "2025-07-29T17:38:25Z",
                     "owner": "SWE-Gym",
                     "repo": "SWE-Gym",
-                    "stars": 723
+                    "stars": 725
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "code-r1",
                   "description": "Code-R1: Reproducing R1 for Code with Reliable Rewards",
                   "children": [],
                   "repo_info": {
@@ -2565,7 +2565,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "rllm",
                   "description": "DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level",
                   "children": [],
                   "repo_info": {
@@ -2587,7 +2587,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "AutoMusicTheoryQA",
                   "description": "Synthesizing Sheet Music Problems for Evaluation and Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -2602,7 +2602,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "loong",
                   "description": "Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers",
                   "children": [],
                   "repo_info": {
@@ -2617,7 +2617,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "ReasonMed",
                   "description": "ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning",
                   "children": [],
                   "repo_info": {
@@ -2639,7 +2639,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "MiroMind-M1",
                   "description": "MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -2654,7 +2654,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "DeepMath",
                   "description": "DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning",
                   "children": [],
                   "repo_info": {
@@ -2669,7 +2669,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "Skills",
                   "description": "AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset",
                   "children": [],
                   "repo_info": {
@@ -2684,7 +2684,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Slow_Thinking_with_LLMs",
                   "description": "An Empirical Study on Eliciting and Improving R1-like Reasoning Models",
                   "children": [],
                   "repo_info": {
@@ -2699,7 +2699,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "DAPO",
                   "description": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
                   "children": [],
                   "repo_info": {
@@ -2714,7 +2714,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Open-Reasoner-Zero",
                   "description": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
                   "children": [],
                   "repo_info": {
@@ -2729,7 +2729,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "PRIME",
                   "description": "Process Reinforcement through Implicit Rewards",
                   "children": [],
                   "repo_info": {
@@ -2744,7 +2744,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "LIMO",
                   "description": "Limo: Less is more for reasoning",
                   "children": [],
                   "repo_info": {
@@ -2759,7 +2759,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "LIMR",
                   "description": "Limr: Less is more for rl scaling",
                   "children": [],
                   "repo_info": {
@@ -2774,7 +2774,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "aimo-progress-prize",
                   "description": "Numinamath: The largest public dataset in ai4maths with 860k pairs of competition math problems and solutions",
                   "children": [],
                   "repo_info": {
@@ -2789,7 +2789,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "open-r1",
                   "description": "Open R1: A fully open reproduction of DeepSeek-R1",
                   "children": [],
                   "repo_info": {
@@ -2799,7 +2799,7 @@
                     "last_commit": "2026-04-02T14:03:15Z",
                     "owner": "huggingface",
                     "repo": "open-r1",
-                    "stars": 26443
+                    "stars": 26444
                   }
                 }
               ],
@@ -2811,7 +2811,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ZeroSearch",
                   "description": "ZeroSearch: Incentivize the Search Capability of LLMs without Searching",
                   "children": [],
                   "repo_info": {
@@ -2826,7 +2826,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "ToolRL",
                   "description": "ToolRL: Reward is All Tool Learning Needs",
                   "children": [],
                   "repo_info": {
@@ -2841,7 +2841,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Search-R1",
                   "description": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -2851,12 +2851,12 @@
                     "last_commit": "2025-11-13T21:56:33Z",
                     "owner": "PeterGriffinJin",
                     "repo": "Search-R1",
-                    "stars": 5325
+                    "stars": 5327
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "ToRL",
                   "description": "ToRL: Scaling Tool-Integrated RL",
                   "children": [],
                   "repo_info": {
@@ -2871,7 +2871,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "DeepRetrieval",
                   "description": "DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -2893,7 +2893,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Skywork-OR1",
                   "description": "Skywork Open Reasoner 1 Technical Report",
                   "children": [],
                   "repo_info": {
@@ -2908,7 +2908,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "OpenVLThinker",
                   "description": "OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles",
                   "children": [],
                   "repo_info": {
@@ -2923,7 +2923,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "a-m-models",
                   "description": "AM-DeepSeek-R1-0528-Distilled",
                   "children": [],
                   "repo_info": {
@@ -2945,7 +2945,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "SynLogic",
                   "description": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
                   "children": [],
                   "repo_info": {
@@ -2960,7 +2960,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "reasoning-gym",
                   "description": "REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards",
                   "children": [],
                   "repo_info": {
@@ -2975,7 +2975,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Enigmata",
                   "description": "Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles",
                   "children": [],
                   "repo_info": {
@@ -2990,7 +2990,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "AutoLogi",
                   "description": "AutoLogi: Automated Generation of Logic Puzzles for Evaluating Reasoning Abilities of Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -3005,7 +3005,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "Logic-RL",
                   "description": "Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -3027,7 +3027,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "AgentCPM-GUI",
                   "description": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
                   "children": [],
                   "repo_info": {
@@ -3042,7 +3042,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "MedAgentGym",
                   "description": "MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale",
                   "children": [],
                   "repo_info": {
@@ -3057,7 +3057,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "MLE-Dojo",
                   "description": "MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering",
                   "children": [],
                   "repo_info": {
@@ -3072,7 +3072,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ZeroGUI",
                   "description": "ZeroGUI: Automating Online GUI Learning at Zero Human Cost",
                   "children": [],
                   "repo_info": {
@@ -3087,7 +3087,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "R2E-Gym",
                   "description": "R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling Open-Weights SWE Agents",
                   "children": [],
                   "repo_info": {
@@ -3102,7 +3102,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "ReCall",
                   "description": "ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -3117,7 +3117,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "MLGym",
                   "description": "MLGym: A New Framework and Benchmark for Advancing AI Research Agents",
                   "children": [],
                   "repo_info": {
@@ -3132,7 +3132,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
+                  "title": "appworld",
                   "description": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
                   "children": [],
                   "repo_info": {
@@ -3154,7 +3154,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "script-doctor",
                   "description": "PuzzleJAX: A Benchmark for Reasoning and Learning",
                   "children": [],
                   "repo_info": {
@@ -3169,7 +3169,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "ViGaL",
                   "description": "Play to Generalize: Learning to Reason Through Game Play",
                   "children": [],
                   "repo_info": {
@@ -3184,7 +3184,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "Optimus-3",
                   "description": "Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts",
                   "children": [],
                   "repo_info": {
@@ -3199,7 +3199,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "GamingAgent",
                   "description": "lmgame-Bench: How Good are LLMs at Playing Games?",
                   "children": [],
                   "repo_info": {
@@ -3214,7 +3214,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "G1",
                   "description": "G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -3229,7 +3229,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Game-RL",
                   "description": "Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning",
                   "children": [],
                   "repo_info": {
@@ -3244,7 +3244,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "KORGym",
                   "description": "KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation",
                   "children": [],
                   "repo_info": {
@@ -3259,7 +3259,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "crossEnvCooperation",
                   "description": "Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination",
                   "children": [],
                   "repo_info": {
@@ -3274,7 +3274,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022-03",
+                  "title": "ScienceWorld",
                   "description": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
                   "children": [],
                   "repo_info": {
@@ -3289,7 +3289,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020-10",
+                  "title": "alfworld",
                   "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
                   "children": [],
                   "repo_info": {
@@ -3311,7 +3311,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "SwS",
                   "description": "SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning",
                   "children": [],
                   "repo_info": {
@@ -3326,7 +3326,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "spiral",
                   "description": "SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -3341,7 +3341,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Absolute-Zero-Reasoner",
                   "description": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data",
                   "children": [],
                   "repo_info": {
@@ -3356,7 +3356,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "TextArena",
                   "description": "TextArena",
                   "children": [],
                   "repo_info": {
@@ -3371,7 +3371,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "sweet_rl",
                   "description": "SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
                   "children": [],
                   "repo_info": {
@@ -3393,7 +3393,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "InternBootcamp",
                   "description": "InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling",
                   "children": [],
                   "repo_info": {
@@ -3415,52 +3415,52 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "ROLL",
                   "description": "Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 991939049,
                     "language": "Python",
-                    "last_commit": "2026-08-24T10:12:14Z",
+                    "last_commit": "2026-08-25T01:34:29Z",
                     "owner": "alibaba",
                     "repo": "ROLL",
-                    "stars": 3372
+                    "stars": 3371
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "AReaL",
                   "description": "AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 937952934,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:49:05Z",
+                    "last_commit": "2026-08-25T03:50:31Z",
                     "owner": "areal-project",
                     "repo": "AReaL",
-                    "stars": 5688
+                    "stars": 5689
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-09",
+                  "title": "verl",
                   "description": "HybridFlow: A Flexible and Efficient RLHF Framework",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 881221486,
                     "language": "Python",
-                    "last_commit": "2026-08-24T14:11:26Z",
+                    "last_commit": "2026-08-25T05:36:18Z",
                     "owner": "verl-project",
                     "repo": "verl",
-                    "stars": 23108
+                    "stars": 23116
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-05",
+                  "title": "OpenRLHF",
                   "description": "OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework",
                   "children": [],
                   "repo_info": {
@@ -3470,34 +3470,34 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9950
+                    "stars": 9951
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "trl",
                   "description": "Transformer Reinforcement Learning -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 250510075,
                     "language": "Python",
-                    "last_commit": "2026-08-24T20:31:01Z",
+                    "last_commit": "2026-08-25T05:31:33Z",
                     "owner": "huggingface",
                     "repo": "trl",
-                    "stars": 19145
+                    "stars": 19147
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "RL",
                   "description": "Nemo RL: A Scalable and Efficient Post-Training Library -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 949546994,
                     "language": "Python",
-                    "last_commit": "2026-08-24T23:31:01Z",
+                    "last_commit": "2026-08-25T05:39:17Z",
                     "owner": "NVIDIA-NeMo",
                     "repo": "RL",
                     "stars": 1952
@@ -3505,32 +3505,32 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "slime",
                   "description": "slime: An SGLang-Native Post-Training Framework for RL Scaling -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 1004140701,
                     "language": "Python",
-                    "last_commit": "2026-08-24T14:14:52Z",
+                    "last_commit": "2026-08-25T05:32:57Z",
                     "owner": "THUDM",
                     "repo": "slime",
-                    "stars": 8237
+                    "stars": 8236
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "RLinf",
                   "description": "RLinf: Reinforcement Learning Infrastructure for Agentic AI -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 1037741738,
                     "language": "Python",
-                    "last_commit": "2026-08-22T06:31:26Z",
+                    "last_commit": "2026-08-25T03:41:48Z",
                     "owner": "RLinf",
                     "repo": "RLinf",
-                    "stars": 4626
+                    "stars": 4629
                   }
                 }
               ],
@@ -3542,7 +3542,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "RL-Factory",
                   "description": "RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use",
                   "children": [],
                   "repo_info": {
@@ -3557,7 +3557,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "verl-tool",
                   "description": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
                   "children": [],
                   "repo_info": {
@@ -3572,7 +3572,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "dLLM-RL",
                   "description": "Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -3582,27 +3582,27 @@
                     "last_commit": "2026-01-28T01:58:54Z",
                     "owner": "Gen-Verse",
                     "repo": "dLLM-RL",
-                    "stars": 520
+                    "stars": 519
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "agent-lightning",
                   "description": "Agent Lightning: Train ANY AI Agents with Reinforcement Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 1004147641,
                     "language": "Python",
-                    "last_commit": "2026-08-24T09:02:08Z",
+                    "last_commit": "2026-08-25T03:40:52Z",
                     "owner": "microsoft",
                     "repo": "agent-lightning",
-                    "stars": 17682
+                    "stars": 17748
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "verl-agent",
                   "description": "Group-in-Group Policy Optimization for LLM Agent Training",
                   "children": [],
                   "repo_info": {
@@ -3617,7 +3617,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "VLM-R1",
                   "description": "VLM-R1: A stable and generalizable R1-style Large Vision-Language Model",
                   "children": [],
                   "repo_info": {
@@ -3632,7 +3632,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "rllm",
                   "description": "rLLM: A Framework for Post-Training Language Agents -",
                   "children": [],
                   "repo_info": {
@@ -3647,7 +3647,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "EasyR1",
                   "description": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework -",
                   "children": [],
                   "repo_info": {
@@ -3662,14 +3662,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "verifiers",
                   "description": "Verifiers: Reinforcement Learning with LLMs in Verifiable Environments -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 920603619,
                     "language": "Python",
-                    "last_commit": "2026-08-24T23:15:49Z",
+                    "last_commit": "2026-08-25T02:46:27Z",
                     "owner": "PrimeIntellect-ai",
                     "repo": "verifiers",
                     "stars": 4550
@@ -3677,22 +3677,22 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "prime-rl",
                   "description": "PRIME-RL: Decentralized RL Training at Scale -",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 934553284,
                     "language": "Python",
-                    "last_commit": "2026-08-24T23:27:27Z",
+                    "last_commit": "2026-08-25T05:48:10Z",
                     "owner": "PrimeIntellect-ai",
                     "repo": "prime-rl",
-                    "stars": 1965
+                    "stars": 1966
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "MARTI",
                   "description": "A Framework for LLM-based Multi-Agent Reinforced Training and Inference -",
                   "children": [],
                   "repo_info": {
@@ -3721,7 +3721,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "SimpleTIR",
                   "description": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
                   "children": [],
                   "repo_info": {
@@ -3736,7 +3736,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "measuring-execution",
                   "description": "- The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs",
                   "children": [],
                   "repo_info": {
@@ -3751,7 +3751,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "GLM-4.5",
                   "description": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
                   "children": [],
                   "repo_info": {
@@ -3766,7 +3766,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "FormaRL",
                   "description": "FormaRL: Enhancing Autoformalization with no Labeled Data",
                   "children": [],
                   "repo_info": {
@@ -3781,7 +3781,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "ARPO",
                   "description": "Agentic Reinforced Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -3796,7 +3796,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "AutoTIR",
                   "description": "AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -3811,7 +3811,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "CoRT",
                   "description": "CoRT: Code-integrated Reasoning within Thinking",
                   "children": [],
                   "repo_info": {
@@ -3826,7 +3826,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Satori-SWE",
                   "description": "Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering",
                   "children": [],
                   "repo_info": {
@@ -3841,7 +3841,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "ToRL",
                   "description": "ToRL: Scaling Tool-Integrated RL",
                   "children": [],
                   "repo_info": {
@@ -3856,7 +3856,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "swe-rl",
                   "description": "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution",
                   "children": [],
                   "repo_info": {
@@ -3871,7 +3871,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "Qwen3-Coder",
                   "description": "Qwen3-Coder: Agentic Coding in the World. -",
                   "children": [],
                   "repo_info": {
@@ -3881,7 +3881,7 @@
                     "last_commit": "2026-03-24T08:22:10Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-Coder",
-                    "stars": 16809
+                    "stars": 16808
                   }
                 }
               ],
@@ -3893,7 +3893,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "SSRL",
                   "description": "SSRL: Self-Search Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -3908,7 +3908,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "DeepResearch",
                   "description": "WebSailor: Navigating Super-human Reasoning for Web Agent",
                   "children": [],
                   "repo_info": {
@@ -3923,7 +3923,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "DeepResearch",
                   "description": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
                   "children": [],
                   "repo_info": {
@@ -3938,7 +3938,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ZeroSearch",
                   "description": "ZeroSearch: Incentivize the Search Capability of LLMs without Searching",
                   "children": [],
                   "repo_info": {
@@ -3953,7 +3953,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "s3",
                   "description": "s3: You Don't Need That Much Data to Train a Search Agent via RL",
                   "children": [],
                   "repo_info": {
@@ -3968,7 +3968,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "StepSearch",
                   "description": "StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -3983,7 +3983,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "R1-Searcher-plus",
                   "description": "R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -3998,7 +3998,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "DeepRetrieval",
                   "description": "DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4013,7 +4013,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Search-R1",
                   "description": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4023,12 +4023,12 @@
                     "last_commit": "2025-11-13T21:56:33Z",
                     "owner": "PeterGriffinJin",
                     "repo": "Search-R1",
-                    "stars": 5325
+                    "stars": 5327
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "R1-Searcher",
                   "description": "R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4050,7 +4050,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "WebAgent-R1",
                   "description": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4065,7 +4065,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "DeepResearch",
                   "description": "WebDancer: Towards Autonomous Information Seeking Agency",
                   "children": [],
                   "repo_info": {
@@ -4080,7 +4080,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "DeepResearcher",
                   "description": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
                   "children": [],
                   "repo_info": {
@@ -4095,7 +4095,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
+                  "title": "WebRL",
                   "description": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4117,7 +4117,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "DeepDive",
                   "description": "DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL",
                   "children": [],
                   "repo_info": {
@@ -4132,7 +4132,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "DeepResearch",
                   "description": "Webwatcher: Breaking new frontiers of vision-language deep research agent",
                   "children": [],
                   "repo_info": {
@@ -4147,7 +4147,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "ASearcher",
                   "description": "Beyond ten turns: Unlocking long-horizon agentic search with large-scale asynchronous rl",
                   "children": [],
                   "repo_info": {
@@ -4162,7 +4162,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "Research-Venus",
                   "description": "Atom-searcher: Enhancing agentic deep research via fine-grained atomic thought reward",
                   "children": [],
                   "repo_info": {
@@ -4177,7 +4177,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "MedResearcher-R1",
                   "description": "Medreseacher-r1: Expert-level medical deep researcher via a knowledge-informed trajectory synthesis framework",
                   "children": [],
                   "repo_info": {
@@ -4192,7 +4192,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "WebThinker",
                   "description": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
                   "children": [],
                   "repo_info": {
@@ -4207,7 +4207,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "MiroThinker",
                   "description": "Mirothinker: An open-source agentic model series trained for deep research and complex, long-horizon problem solving",
                   "children": [],
                   "repo_info": {
@@ -4217,7 +4217,7 @@
                     "last_commit": "2026-07-06T14:50:39Z",
                     "owner": "MiroMindAI",
                     "repo": "MiroThinker",
-                    "stars": 8361
+                    "stars": 8360
                   }
                 }
               ],
@@ -4229,7 +4229,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "UI-TARS-desktop",
                   "description": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4244,7 +4244,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "GUI-RCPO",
                   "description": "Test-Time Reinforcement Learning for GUI Grounding via Region Consistency",
                   "children": [],
                   "repo_info": {
@@ -4259,7 +4259,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "TuneAgent",
                   "description": "OS-R1: Agentic Operating System Kernel Tuning with Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4274,7 +4274,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "MobileAgent",
                   "description": "Mobile-Agent-v3: Fundamental Agents for GUI Automation",
                   "children": [],
                   "repo_info": {
@@ -4284,12 +4284,12 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9122
+                    "stars": 9124
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "SWIRL",
                   "description": "SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control",
                   "children": [],
                   "repo_info": {
@@ -4304,7 +4304,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "MobileAgent",
                   "description": "Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation",
                   "children": [],
                   "repo_info": {
@@ -4314,12 +4314,12 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9122
+                    "stars": 9124
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "GUI-Shift",
                   "description": "UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4334,7 +4334,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "GUI-G1",
                   "description": "GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents",
                   "children": [],
                   "repo_info": {
@@ -4349,7 +4349,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ARPO",
                   "description": "ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay",
                   "children": [],
                   "repo_info": {
@@ -4364,7 +4364,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ZeroGUI",
                   "description": "ZeroGUI: Automating Online GUI Learning at Zero Human Cost",
                   "children": [],
                   "repo_info": {
@@ -4379,7 +4379,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "GUI-R1",
                   "description": "GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents",
                   "children": [],
                   "repo_info": {
@@ -4394,7 +4394,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "UI-R1",
                   "description": "UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4409,7 +4409,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-01",
+                  "title": "UI-TARS",
                   "description": "UI-TARS: Pioneering Automated GUI Interaction with Native Agents",
                   "children": [],
                   "repo_info": {
@@ -4431,7 +4431,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Rec-R1",
                   "description": "Rec-R1: Bridging LLMs and Recommendation Systems via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4453,7 +4453,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "OpenTableR1",
                   "description": "OpenTable-R1: A Reinforcement Learning Augmented Tool Agent for Open-Domain Table Question Answering",
                   "children": [],
                   "repo_info": {
@@ -4468,7 +4468,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "EPO",
                   "description": "EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4490,7 +4490,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "ARAR",
                   "description": "AR$^2$: Adversarial Reinforcement Learning for Abstract Reasoning in Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -4505,7 +4505,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "Dream-Coder",
                   "description": "Dream-Coder 7B: An Open Diffusion Language Model for Code",
                   "children": [],
                   "repo_info": {
@@ -4520,7 +4520,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "Leanabell-Prover-V2",
                   "description": "Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4535,7 +4535,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "StepFun-Prover-Preview",
                   "description": "StepFun-Prover Preview: Let's Think and Verify Step by Step",
                   "children": [],
                   "repo_info": {
@@ -4550,7 +4550,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "MedAgentGym",
                   "description": "MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale",
                   "children": [],
                   "repo_info": {
@@ -4565,7 +4565,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Fortune",
                   "description": "Fortune: Formula-Driven Reinforcement Learning for Symbolic Table Reasoning in Language Models",
                   "children": [],
                   "repo_info": {
@@ -4580,7 +4580,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "VeriReason",
                   "description": "VeriReason: Reinforcement Learning with Testbench Feedback for Reasoning-Enhanced Verilog Generation",
                   "children": [],
                   "repo_info": {
@@ -4595,7 +4595,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Skywork-OR1",
                   "description": "Skywork Open Reasoner 1 Technical Report",
                   "children": [],
                   "repo_info": {
@@ -4610,7 +4610,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "CodeV-R1",
                   "description": "CodeV-R1: Reasoning-Enhanced Verilog Generation",
                   "children": [],
                   "repo_info": {
@@ -4625,22 +4625,22 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "AReaL",
                   "description": "AREAL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 937952934,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:49:05Z",
+                    "last_commit": "2026-08-25T03:50:31Z",
                     "owner": "areal-project",
                     "repo": "AReaL",
-                    "stars": 5688
+                    "stars": 5689
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "SQL-R1",
                   "description": "SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4655,7 +4655,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "DeepSeek-Prover-V2",
                   "description": "DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition",
                   "children": [],
                   "repo_info": {
@@ -4670,7 +4670,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "code-r1",
                   "description": "Code-R1: Reproducing R1 for Code with Reliable Rewards -",
                   "children": [],
                   "repo_info": {
@@ -4685,7 +4685,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "open-r1",
                   "description": "Open-R1: a fully open reproduction of DeepSeek-R1",
                   "children": [],
                   "repo_info": {
@@ -4695,12 +4695,12 @@
                     "last_commit": "2026-04-02T14:03:15Z",
                     "owner": "huggingface",
                     "repo": "open-r1",
-                    "stars": 26443
+                    "stars": 26444
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "rllm",
                   "description": "Deepcoder: A fully open-source 14b coder at o3-mini level",
                   "children": [],
                   "repo_info": {
@@ -4722,7 +4722,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "APR-RL",
                   "description": "Repair-R1: Better Test Before Repair",
                   "children": [],
                   "repo_info": {
@@ -4737,7 +4737,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "CURE",
                   "description": "Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -4752,7 +4752,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Afterburner",
                   "description": "Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization",
                   "children": [],
                   "repo_info": {
@@ -4767,7 +4767,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
+                  "title": "RLCoder",
                   "description": "RLCoder: Reinforcement Learning for Repository-Level Code Completion",
                   "children": [],
                   "repo_info": {
@@ -4789,7 +4789,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2026-03",
+                  "title": "3D-RFT",
                   "description": "3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding",
                   "children": [],
                   "repo_info": {
@@ -4804,7 +4804,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "RLSVR",
                   "description": "Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play",
                   "children": [],
                   "repo_info": {
@@ -4814,12 +4814,12 @@
                     "last_commit": "2026-08-12T06:24:32Z",
                     "owner": "wangqinsi1",
                     "repo": "RLSVR",
-                    "stars": 187
+                    "stars": 188
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "AdsQA",
                   "description": "AdsQA: Towards Advertisement Video Understanding",
                   "children": [],
                   "repo_info": {
@@ -4834,7 +4834,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "Keye",
                   "description": "Kwai Keye-VL 1.5 Technical Report",
                   "children": [],
                   "repo_info": {
@@ -4849,7 +4849,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "SIFThinker",
                   "description": "Sifthinker: Spatially-aware image focus for visual reasoning",
                   "children": [],
                   "repo_info": {
@@ -4864,7 +4864,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "Long-RL",
                   "description": "Scaling rl to long videos",
                   "children": [],
                   "repo_info": {
@@ -4879,7 +4879,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "RoboRefer",
                   "description": "Roborefer: Towards spatial referring with reasoning in vision-language models for robotics",
                   "children": [],
                   "repo_info": {
@@ -4894,7 +4894,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "Ego-R1",
                   "description": "Ego-R1: Chain-of-tool-thought for ultra-long egocentric video reasoning",
                   "children": [],
                   "repo_info": {
@@ -4909,7 +4909,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "VerIPO",
                   "description": "VerIPO: Long Reasoning Video-R1 Model with Iterative Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -4924,7 +4924,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "OpenThinkIMG",
                   "description": "Openthinkimg: Learning to think with images via visual tool reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -4939,7 +4939,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "VisualPlanning",
                   "description": "Visual Planning: Let's think only with images",
                   "children": [],
                   "repo_info": {
@@ -4954,7 +4954,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "VideoRFT",
                   "description": "Videorft: Incentivizing video reasoning capability in mllms via reinforced fine-tuning",
                   "children": [],
                   "repo_info": {
@@ -4969,7 +4969,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "DeepEyes",
                   "description": "Deepeyes: Incentivizing\" thinking with images\" via reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -4984,7 +4984,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Visionary-R1",
                   "description": "Visionary-R1: Mitigating shortcuts in visual reasoning with reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -4999,7 +4999,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Chain-of-Focus",
                   "description": "Chain-of-focus: Adaptive visual search and zooming for multimodal reasoning via rl",
                   "children": [],
                   "repo_info": {
@@ -5014,7 +5014,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "GRIT",
                   "description": "GRIT: Teaching mllms to think with images",
                   "children": [],
                   "repo_info": {
@@ -5029,7 +5029,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Pixel-Reasoner",
                   "description": "Pixel Reasoner: Incentivizing pixel-space reasoning with curiosity-driven reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -5044,7 +5044,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "v1",
                   "description": "- Don’t look only once: Towards multimodal interactive reasoning with selective visual revisitation",
                   "children": [],
                   "repo_info": {
@@ -5059,7 +5059,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Ground-R1",
                   "description": "Ground-R1: Incentivizing grounded visual reasoning via reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -5074,7 +5074,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Look_Again",
                   "description": "Qwen look again: Guiding vision-language reasoning models to re-attention visual information",
                   "children": [],
                   "repo_info": {
@@ -5089,7 +5089,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "TW-GRPO",
                   "description": "Reinforcing video reasoning with focused thinking",
                   "children": [],
                   "repo_info": {
@@ -5104,7 +5104,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Spatial-MLLM",
                   "description": "Spatial-MLLM: Boosting mllm capabilities in visual-based spatial intelligence",
                   "children": [],
                   "repo_info": {
@@ -5119,7 +5119,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "R1-Zero-VSI",
                   "description": "Improved visual-spatial reasoning via r1-zero-like training",
                   "children": [],
                   "repo_info": {
@@ -5134,7 +5134,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "SpaceR",
                   "description": "Spacer: Reinforcing mllms in video spatial reasoning",
                   "children": [],
                   "repo_info": {
@@ -5149,7 +5149,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "VideoChat-R1",
                   "description": "Videochat-R1: Enhancing spatio-temporal perception via reinforcement fine-tuning",
                   "children": [],
                   "repo_info": {
@@ -5164,7 +5164,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "VLM-R1",
                   "description": "VLM-R1: A stable and generalizable r1-style large vision-language model",
                   "children": [],
                   "repo_info": {
@@ -5179,7 +5179,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "OpenVLThinker",
                   "description": "OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles",
                   "children": [],
                   "repo_info": {
@@ -5194,7 +5194,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Visual-RFT",
                   "description": "Visual-RFT: Visual reinforcement fine-tuning",
                   "children": [],
                   "repo_info": {
@@ -5209,7 +5209,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Vision-R1",
                   "description": "Vision-R1: Incentivizing reasoning capability in multimodal large language models",
                   "children": [],
                   "repo_info": {
@@ -5224,7 +5224,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "VisRL",
                   "description": "VisRL: Intention-Driven Visual Perception via Reinforced Reasoning",
                   "children": [],
                   "repo_info": {
@@ -5239,7 +5239,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "MetaSpatial",
                   "description": "Metaspatial: Reinforcing 3d spatial reasoning in vlms for the metaverse",
                   "children": [],
                   "repo_info": {
@@ -5254,7 +5254,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "Video-R1",
                   "description": "Video-R1: Reinforcing video reasoning in mllms",
                   "children": [],
                   "repo_info": {
@@ -5276,7 +5276,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "Qwen-Image",
                   "description": "Qwen-Image Technical Report",
                   "children": [],
                   "repo_info": {
@@ -5286,12 +5286,12 @@
                     "last_commit": "2026-02-10T07:37:37Z",
                     "owner": "QwenLM",
                     "repo": "Qwen-Image",
-                    "stars": 8257
+                    "stars": 8258
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "TempFlow-GRPO",
                   "description": "TempFlow-GRPO: When timing matters for grpo in flow models",
                   "children": [],
                   "repo_info": {
@@ -5306,7 +5306,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "MixGRPO",
                   "description": "MixGRPO: Unlocking flow-based grpo efficiency with mixed ode-sde",
                   "children": [],
                   "repo_info": {
@@ -5321,7 +5321,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "FocusDiff",
                   "description": "Focusdiff: Advancing fine-grained text-image alignment for autoregressive visual generation through rl",
                   "children": [],
                   "repo_info": {
@@ -5336,7 +5336,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "T2I-R1",
                   "description": "T2I-R1: Reinforcing image generation with collaborative semantic-level and token-level cot",
                   "children": [],
                   "repo_info": {
@@ -5351,7 +5351,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "flow_grpo",
                   "description": "Flow-GRPO: Training flow matching models via online rl",
                   "children": [],
                   "repo_info": {
@@ -5361,12 +5361,12 @@
                     "last_commit": "2026-05-07T08:23:21Z",
                     "owner": "yifan123",
                     "repo": "flow_grpo",
-                    "stars": 2488
+                    "stars": 2491
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "DanceGRPO",
                   "description": "DanceGRPO: Unleashing grpo on visual generation",
                   "children": [],
                   "repo_info": {
@@ -5381,7 +5381,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "GoT-R1",
                   "description": "GoT-R1: Unleashing reasoning capability of mllm for visual generation with reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -5396,7 +5396,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ULM-R1",
                   "description": "Co-Reinforcement learning for unified multimodal understanding and generation",
                   "children": [],
                   "repo_info": {
@@ -5411,7 +5411,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "DKI_LLM",
                   "description": "Reprompt: Reasoning-augmented reprompting for text-to-image generation via reinforcement learning",
                   "children": [],
                   "repo_info": {
@@ -5426,7 +5426,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "InfLVG",
                   "description": "InfLVG: Reinforce inference-time consistent long video generation with grpo",
                   "children": [],
                   "repo_info": {
@@ -5441,7 +5441,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ReasonGen-R1",
                   "description": "Reasongen-R1: Cot for autoregressive image generation models through sft and rl",
                   "children": [],
                   "repo_info": {
@@ -5463,7 +5463,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "SimpleVLA-RL",
                   "description": "SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5478,7 +5478,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "reinboT",
                   "description": "ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5493,7 +5493,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "ript-vla",
                   "description": "InteractivePost-Trainingfor Vision-Language-ActionModels",
                   "children": [],
                   "repo_info": {
@@ -5508,7 +5508,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "vlarl",
                   "description": "VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5523,7 +5523,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "RL4VLA",
                   "description": "What can rl bring to vla generalization? an empirical study",
                   "children": [],
                   "repo_info": {
@@ -5538,7 +5538,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "conrft",
                   "description": "ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy",
                   "children": [],
                   "repo_info": {
@@ -5553,7 +5553,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
+                  "title": "GRAPE",
                   "description": "GRAPE: Generalizing Robot Policy via Preference Alignment",
                   "children": [],
                   "repo_info": {
@@ -5568,7 +5568,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "EPO",
                   "description": "EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5590,7 +5590,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-10",
+                  "title": "AgentFlow",
                   "description": "In-the-Flow Agentic System Optimization for Effective Planning and Tool Use",
                   "children": [],
                   "repo_info": {
@@ -5605,7 +5605,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "critic-rl",
                   "description": "Teaching Language Models to Critique via Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5620,7 +5620,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "MAPoRL",
                   "description": "MAPoRL2: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5642,7 +5642,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "CX-Mind",
                   "description": "CX-Mind: A Pioneering Multimodal Large Language Model for Interleaved Reasoning in Chest X-ray via Curriculum-Guided Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5657,7 +5657,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "ProMed",
                   "description": "ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs",
                   "children": [],
                   "repo_info": {
@@ -5672,7 +5672,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-08",
+                  "title": "MolReasoner",
                   "description": "MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs",
                   "children": [],
                   "repo_info": {
@@ -5687,7 +5687,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "MedGround-R1",
                   "description": "MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization",
                   "children": [],
                   "repo_info": {
@@ -5702,7 +5702,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "cell-o1",
                   "description": "Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5717,7 +5717,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "MedAgentGym",
                   "description": "MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale",
                   "children": [],
                   "repo_info": {
@@ -5732,7 +5732,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "Med-U1",
                   "description": "Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5747,7 +5747,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "ether0",
                   "description": "Training a Scientific Reasoning Model for Chemistry",
                   "children": [],
                   "repo_info": {
@@ -5762,7 +5762,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "DRG-Sapphire",
                   "description": "Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding",
                   "children": [],
                   "repo_info": {
@@ -5777,7 +5777,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "BioReason",
                   "description": "BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model",
                   "children": [],
                   "repo_info": {
@@ -5787,12 +5787,12 @@
                     "last_commit": "2026-05-28T22:14:44Z",
                     "owner": "bowang-lab",
                     "repo": "BioReason",
-                    "stars": 403
+                    "stars": 402
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-04",
+                  "title": "open-medical-r1",
                   "description": "Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain",
                   "children": [],
                   "repo_info": {
@@ -5807,7 +5807,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-01",
+                  "title": "MedXpertQA",
                   "description": "MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding",
                   "children": [],
                   "repo_info": {
@@ -5817,12 +5817,12 @@
                     "last_commit": "2025-07-17T08:37:24Z",
                     "owner": "TsinghuaC3I",
                     "repo": "MedXpertQA",
-                    "stars": 173
+                    "stars": 174
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
+                  "title": "HuatuoGPT-o1",
                   "description": "HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs",
                   "children": [],
                   "repo_info": {
@@ -5837,7 +5837,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "pro-1",
                   "description": "Pro-1",
                   "children": [],
                   "repo_info": {
@@ -5852,7 +5852,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "rbio",
                   "description": "rbio1 - training scientific reasoning LLMs with biological world models as soft verifiers",
                   "children": [],
                   "repo_info": {
@@ -5867,7 +5867,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "-",
+                  "title": "EPO",
                   "description": "EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning",
                   "children": [],
                   "repo_info": {
@@ -5895,7 +5895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:41:29.404Z",
+    "last_updated": "2026-08-25T06:01:38.013Z",
     "original_repository": "TsinghuaC3I/Awesome-RL-for-LRMs",
     "original_repository_id": 951771641,
     "original_repository_sha": "8e1040a66d430ee6951187c1a471253e5c669d02",
