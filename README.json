@@ -602,7 +602,7 @@
                 "open_issues": 21,
                 "owner": "Open-Reasoner-Zero",
                 "repo": "Open-Reasoner-Zero",
-                "stars": 2099,
+                "stars": 2100,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:34.263Z"
@@ -623,7 +623,7 @@
                 "open_issues": 34,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92038,
+                "stars": 92037,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:34.263Z"
@@ -2235,7 +2235,7 @@
                     "open_issues": 34,
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-R1",
-                    "stars": 92038,
+                    "stars": 92037,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:34.263Z"
@@ -2343,7 +2343,7 @@
                     "open_issues": 21,
                     "owner": "Open-Reasoner-Zero",
                     "repo": "Open-Reasoner-Zero",
-                    "stars": 2099,
+                    "stars": 2100,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:34.263Z"
@@ -4088,7 +4088,7 @@
                     "open_issues": 21,
                     "owner": "Open-Reasoner-Zero",
                     "repo": "Open-Reasoner-Zero",
-                    "stars": 2099,
+                    "stars": 2100,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:34.263Z"
@@ -5543,8 +5543,8 @@
                     "id": 920603619,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T02:44:33Z",
-                    "open_issues": 190,
+                    "last_commit": "2026-08-29T04:17:56Z",
+                    "open_issues": 189,
                     "owner": "PrimeIntellect-ai",
                     "repo": "verifiers",
                     "stars": 4570,
@@ -5564,7 +5564,7 @@
                     "id": 934553284,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T04:03:16Z",
+                    "last_commit": "2026-08-29T04:18:52Z",
                     "open_issues": 213,
                     "owner": "PrimeIntellect-ai",
                     "repo": "prime-rl",
@@ -8950,7 +8950,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:50.866Z",
+    "last_updated": "2026-08-29T04:21:40.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey of Reinforcement Learning for Large Reasoning Models",
